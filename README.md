@@ -1,6 +1,6 @@
 # Duurzaam, groen en sociaal Strandeiland
 
-![Visual]()
+<img width="878" alt="strandeiland" src="https://github.com/cmda-minor-web-cases/duurzaam-groen-en-sociaal-strandeiland/assets/1061632/969e3099-d01c-4208-b7bd-98f8d6532c24">
 
 ## Inhoudsopgave
   * [Beschrijving](#beschrijving)
@@ -16,6 +16,8 @@ De komende jaren ontstaat een compleet nieuwe wijk aan de oostkant van Amsterdam
 Ambities zijn hoog: de wijk moet energieleverend zijn, groener dan de eerste versie van IJburg, bewoners moeten plezierig met elkaar kunnen samenwonen en de kansengelijkheid moet verbeterd worden. De gemeente kan dit niet alleen en werkt graag samen met toekomstige bewoners, maatschappelijke organisaties, ondernemers en onderzoeksinstellingen. De website Hallo Strandeiland (https://hallostrandeiland.nl) is de dragende kracht van deze samenwerking. In de loop van dit jaar wordt een module toegevoegd om de samenwerking te bevorderen. In dit project zoeken we naar ontwerpen voor deze nieuwe functionaliteit.
 
 ## Opdrachtgever
+<img width="64" alt="hallo-strandeiland" src="https://github.com/cmda-minor-web-cases/duurzaam-groen-en-sociaal-strandeiland/assets/1061632/59f4976c-e572-4484-bfc7-37f35355258d">
+
 Het participatieteam Strandeiland: https://hallostrandeiland.nl/overons  
 Product Owner: Michel Vogler
 
