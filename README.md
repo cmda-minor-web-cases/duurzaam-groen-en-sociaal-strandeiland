@@ -37,7 +37,7 @@ Doel is om via Hallo Strandeiland goede ideeën en voorstellen te verzamelen, te
 
 2) Als toekomstig bewoner, wil ik een reactie kunnen geven op voorstellen van andere toekomstige bewoners, zodat we kunnen samenwerken aan het vormgeven van de voorstellen.
 
-3) Als projectmanager van de gemeente, wil ik voorstellen van toekomstige bewoners wil ik kunnen filteren op thema's, zodat ik per thema kan bekijken of er voorstellen bijzitten die kunnen bijdragen aan een lagere ecologische footprint, of betere sociale cohesie van de wijk.
+3) Als projectmanager van de gemeente, wil ik voorstellen van toekomstige bewoners kunnen filteren op thema's, zodat ik per thema kan bekijken of er ideeën bijzitten die kunnen bijdragen aan een lagere ecologische footprint, of betere sociale cohesie van de wijk.
 
 ## Data
 Er is een REST API endpoint voor de user generated content (voorstellen en reacties)
